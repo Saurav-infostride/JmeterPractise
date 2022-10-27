@@ -5,9 +5,4 @@
                 git branch: "main", url:'https://github.com/Saurav-infostride/JmeterPractise.git'
             }
         }
-        stage('Test') {
-            steps{
-                echo "success"
-            }
-        }
     }
